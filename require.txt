@@ -1,0 +1,10 @@
+requirements.txt
+
+numpy
+jupyter notebook
+matplotlib
+pandas
+xlrd
+statsmodels
+itertools
+
